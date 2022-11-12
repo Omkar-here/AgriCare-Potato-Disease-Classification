@@ -10,5 +10,5 @@ Potato is one of the most cultivated and in-demand crops after rice and wheat. P
 <img src="Files/Model Summary.PNG" width:400px ><br>
 <h2>Training of the model</h2><br>
 <img src="Files/Training.PNG" width:400px><br>
-<h2>The above model provides an accuracy of 98 % on test dataset!</h2>
+<h3>The above model provides an accuracy of 98 % on test dataset!</h3>
 
